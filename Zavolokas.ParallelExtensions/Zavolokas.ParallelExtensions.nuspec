@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>$title$</title>
+		<authors>Sergey Zavoloka</authors>
+		<owners>Sergey Zavoloka</owners>
+		<projectUrl>https://github.com/zavolokas/ParallelExtensions</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Extensions to simplify parallel processing.</description>
+		<releaseNotes></releaseNotes>
+		<copyright>Copyright 2017</copyright>
+		<tags>Parallel Processing</tags>
+		<dependencies>
+			<dependency id="Zavolokas.Structures" version="1.0.1" />
+		</dependencies>
+	</metadata>
+</package>
